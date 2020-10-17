@@ -1,15 +1,20 @@
 ### Date created
-Include the date you created this project and README file.
+18-10-2020
 
 ### Project Title
-Replace the Project Title
+Udacity Github
 
 ### Description
-Describe what your project is about and what it does
+The project is about learning how to work with Github
 
 ### Files used
-Include the files used
+bikeshare.py
+chicago.csv
+whasington.csv
+new_york_city.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+The credits goes to:
+Udacity
+Google
+Victor O
