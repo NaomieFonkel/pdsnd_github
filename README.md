@@ -2,7 +2,7 @@
 18-10-2020
 
 ### Project Title
-Udacity Github
+Udacity Github Naomie Fonkel
 
 ### Description
 The project is about learning how to work with Github
@@ -15,6 +15,4 @@ new_york_city.csv
 
 ### Credits
 The credits goes to:
-Udacity
-Google
-Victor O
+Udacity,Google
